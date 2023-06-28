@@ -25,4 +25,4 @@ To run the project, follow the instructions below:
         $node MyNFT.js
 
 ## Author
-Me :)
+Asad
